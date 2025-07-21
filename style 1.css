@@ -1,0 +1,42 @@
+.uni {
+    border: 2px solid slateblue;
+    border-radius: 15px;
+    width: 40%;
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+
+
+}
+
+h3 {
+
+    color: slateblue;
+    font-family:verdana;
+}
+
+#tag {
+    color: white;
+    background-color: green;
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    font-family: impact;
+    margin-left: 170px;
+    
+}
+
+footer {
+
+    color:black;
+    font-family: ipact sans-serif;
+    font-size: 10px;
+    
+    
+    
+}
+
+.tech {
+    color: salmon;
+   
+}
